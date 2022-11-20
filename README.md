@@ -12,3 +12,6 @@ Octicons SVG / Buttons
 
 2. button tooltips
 [bs tooltips](https://getbootstrap.com/docs/4.0/components/tooltips/)
+
+#### stopping point
+[pick up here](https://youtu.be/lATafp15HWA?t=1513)
