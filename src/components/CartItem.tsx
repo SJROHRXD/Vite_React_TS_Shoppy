@@ -7,6 +7,13 @@ type CartItemProps = {
     id: number;
     quantity: number;
 };
+// CartItemProps is a type
+// a type is a way to define a shape of an object
+// the shape of an object is the properties that it has and the types of those properties
+// properties are the key-value pairs that make up an object, they are also called fields
+// properties can have any type, including other objects
+// the type of a property is the type of the value that the property holds
+// the type of a property can be a primitive type, like a string or a number, or it can be a complex type, like an object or an array
 
 export function CartItem({ id, quantity }: CartItemProps) {
     const { removeFromCart } = useShoppingCart();

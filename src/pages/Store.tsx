@@ -12,7 +12,6 @@ export function Store() {
                         <StoreItem {...item} />
                     </Col>
                 ))}
-                ;
             </Row>
         </>
     );
