@@ -5,7 +5,7 @@ import { Navbar as NavbarBoot, Nav, Container, Button } from "react-bootstrap"
 
 export function Navbar () {
     return (
-        <NavbarBoot className ="bg-white shadow-sm mg-3">
+        <NavbarBoot sticky="top" className="bg-white shadow-sm mg-3">
             <Container>
 
             <Button
