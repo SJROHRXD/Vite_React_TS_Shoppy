@@ -1,3 +1,9 @@
+
+### NOTES ###
+
+Octicons SVG / Buttons
+- [heart](https://primer.style/octicons/heart-fill-24)
+
 ### ADD LATER ###
 
 1. customize $theme-colors from bootstrap map; custom sass file
