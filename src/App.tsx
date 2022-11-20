@@ -6,6 +6,8 @@ import { Store } from "./pages/Store";
 import { Navbar } from "./components/Navbar";
 import { ShoppingCartProvider } from "./context/ShoppingCartContext";
 
+// import "./styles/Sass/_main.scss";
+
 function App() {
     return (
         <ShoppingCartProvider>

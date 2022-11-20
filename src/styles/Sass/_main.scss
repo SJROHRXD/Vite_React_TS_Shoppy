@@ -1,0 +1,17 @@
+@import "../../../node_modules/bootstrap/scss/functions";
+
+// Default variable overrides
+$pink: #d63384;
+$primary: $pink;
+
+$pink-red: #dd5e14;
+$danger: $pink-red;
+
+// Settings for the `<body>` element.
+
+$white: #ffe0ef;
+$body-bg: $white;
+
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+@import "../../../node_modules/bootstrap/scss/variables";
+@import "../../../node_modules/bootstrap/scss/mixins";
